@@ -4,6 +4,8 @@
 
 Воронежское сообщество любителей Golang
 
+[Meetup](https://www.meetup.com/ru-RU/Golang-Voronezh)
+
 ## Встречи и выступления
 
 - 12.12.2019 Golang Meetup Voronezh
